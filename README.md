@@ -9,9 +9,9 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 
 | Milestone                                   | Link                                                         |
 |---------------------------------------------|--------------------------------------------------------------|
-| Github Account Created                      | https://github.com/username |
-| Github Profile Page Updated                 | https://github.com/username/username |
-| Fork a Repo                                 | https://github.com/username/practical-programming-in-chemistry-milestones|
+| Github Account Created                      | https://github.com/jwa7 |
+| Github Profile Page Updated                 | https://github.com/jwa7/jwa7 |
+| Fork a Repo                                 | https://github.com/jwa7/practical-programming-in-chemistry-milestones|
 | Commit and Push Change from Command Line    |                                               |
 | Make a New Branch                           |                                               |
 | Make a Pull Request                         |                                               |
