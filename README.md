@@ -2,20 +2,21 @@
 
 The **personal milestones table** outlines key milestones for practical programming skills development tailored to chemistry students. By incrementally working through activities like creating a GitHub account, making commits, branches, pull requests, and reviewing others' submissions, students can gain first-hand experience with version control, collaboration, and real-world software development workflows. The table provides placeholder links for students to fill in with the specific URLs corresponding to their completion of each task.
 
-**Link:** They should replace `#` with the actual URL where they achieved each milestone. For example, they would link directly to their updated profile, the forked repository, the specific commit, the pull request they made, or the pull request they reviewed. The placeholder `https://github.com/username` for the GitHub Account Created and GitHub Profile Page Updated should be replaced with their actual GitHub profile URL.
+**Link:** They should insert the actual URL where they achieved each milestone into the `Link` column. For example, they would link directly to their updated profile, the forked repository, the specific commit, the pull request they made, or the pull request they reviewed. The placeholder `https://github.com/username` for the GitHub Account Created and GitHub Profile Page Updated should be replaced with their actual GitHub profile URL.
 
-For the "Link" column, use the full URL to the specific activity. For example, to link to a pull request, you would use something like `https://github.com/original_repo_owner/original_repo_name/pull/number`.
+For the "Link" column, use the full URL to the specific activity. For example, to link to a pull request, you would use something like `https://github.com/original_repo_owner/original_repo_name/pull/number`. Replace the placeholders with the actual URLs - only the marked sections will change.
 
 
-| Milestone                                   | Link                                                         |
-|---------------------------------------------|--------------------------------------------------------------|
-| Github Account Created                      | https://github.com/username |
-| Github Profile Page Updated                 | https://github.com/username/username |
-| Fork a Repo                                 | https://github.com/username/practical-programming-in-chemistry-milestones|
-| Commit and Push Change from Command Line    |                                               |
-| Make a New Branch                           |                                               |
-| Make a Pull Request                         |                                               |
-| Review a Pull Request                       |                                               |
+| Week | Milestone                                   | Link                                                         |
+|------|---------------------------------------------|--------------------------------------------------------------|
+| 1    | Github Account Created                      | https://github.com/`username` |
+| 1    | Github Profile Page Updated                 | https://github.com/`username`/`username` |
+| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr` |
+| 1    | Create a New Branch                           | https://github.com/`username`/`repo-name`/tree/`new-branch-name` |
+| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml` |
+| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | (Optional) Make a Pull Request              | |
+| 2    | (Optional) Review a Pull Request            | |
 
 **More milestones will be added throughout the course.**
 
@@ -50,7 +51,7 @@ Whenever the instructor updates the upstream repository (e.g., adding new milest
 git fetch upstream
 git merge upstream/main main
 ```
-Here, `main` is the branch name of your repo, `upstream` refers to the repo on the `schwallergroup`, and `upstream/main` to its main branch.  
+Here, `main` is the branch name of your repo, `upstream` refers to the repo on the `schwallergroup`, and `upstream/main` to its main branch.
 
 ### Step 5: Push Updates to the Forked Repository
 After merging the updates from the upstream repository into their local repository, students may need to push these updates to their forked repository on GitHub:
