@@ -9,7 +9,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username` |
+| 1    | Github Account Created                      | https://github.com/pschwllr |
 | 1    | Github Profile Page Updated                 | https://github.com/`username`/`username` |
 | 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr` |
 | 1    | Create a New Branch                           | https://github.com/`username`/`repo-name`/tree/`new-branch-name` |
