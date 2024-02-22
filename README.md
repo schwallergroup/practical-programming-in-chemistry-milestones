@@ -12,7 +12,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 | 1    | Github Account Created                      | https://github.com/jonathanrsr |
 | 1    | Github Profile Page Updated                 | https://github.com/jonathanrsr/jonathanrsr |
 | 1    | Commit and Push Change from Command Line    | https://github.com/jonathanrsr/ppchem/commit/abe4a32e8bfc4902f7ff43b9d05128a76e5b5e74 |
-| 1    | Create a New Branch                           https://github.com/jonathanrsr/ppchem/tree/new-branch |
+| 1    | Create a New Branch                         | https://github.com/jonathanrsr/ppchem/tree/new-branch |
 | 1    | Create a conda environment                  | https://github.com/jonathanrsr/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
