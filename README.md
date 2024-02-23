@@ -30,7 +30,7 @@ Next, the student clones their forked repository to their local machine, creatin
 git clone https://github.com/<username>/practical-programming-in-chemistry-milestones.git
 ```
 
-Replace `<username>` with your GitHub username.
+Replace `username` with your GitHub username.
 
 ### Step 3: Modify the milestones table
 In order to show that you succesfully accomplished the milestones, please edit the table above by replacing the placeholder links with valid links. These should point us to the specific place on your GitHub. The easiest way to edit this `README` file by in-browser editing, like so:
