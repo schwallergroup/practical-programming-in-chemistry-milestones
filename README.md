@@ -42,7 +42,7 @@ In order to show that you succesfully accomplished the milestones, please edit t
   
   1. Go to your repository on GitHub.
   2. Navigate to the commit message that you used to push your image of the molecule. This is an example of a commit online:
-  ![commit_link](assets/commimt_link.png)
+  ![commit_link](assets/commit_link.png)
   3. By clicking on this commit message you open a detailed view of this commit. Copy the link to that page.
   ![commit_page](assets/commit_page.png)
 
