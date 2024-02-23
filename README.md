@@ -9,12 +9,12 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 
 | Week | Milestone                                   | Link                                                         |
 |------|---------------------------------------------|--------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`TheAPTG` |
-| 1    | Github Profile Page Updated                 | https://github.com/`TheAPTG`/`TheAPTG` |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`TheAPTG`/`ppchem`/commit/`commit-nr` |
-| 1    | Create a New Branch                           | https://github.com/`TheAPTG`/`ppchem`/tree/`new-branch` |
-| 1    | Create a conda environment                  | https://github.com/`TheAPTG`/`ppchem`/blob/`new-branch`/`env.yml` |
-| 1    | Fork a Repo                                 | https://github.com/`TheAPTG`/practical-programming-in-chemistry-milestones |
+| 1    | Github Account Created                      | https://github.com/TheAPTG |
+| 1    | Github Profile Page Updated                 | https://github.com/TheAPTG/TheAPTG |
+| 1    | Commit and Push Change from Command Line    | https://github.com/TheAPTG/ppchem/commit/commit-nr |
+| 1    | Create a New Branch                           | https://github.com/TheAPTG/ppchem/tree/new-branch |
+| 1    | Create a conda environment                  | https://github.com/TheAPTG/ppchem/blob/new-branch/env.yml |
+| 1    | Fork a Repo                                 | https://github.com/TheAPTG/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
