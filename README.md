@@ -7,12 +7,12 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Github Account Created                      | https://github.com/laugmz                                                        | 
+| 1    | Github Profile Page                         | https://github.com/laugmz/laugmz                                                 |
+| 1    | Commit and Push Change from Command Line    | https://github.com/laugmz/ppchem/commit/df808396064362513e64c56014c1ad1edb7934b2 |
+| 1    | Create a New Branch                         | https://github.com/laugmz/ppchem/tree/NouvelleChance                             |
+| 1    | Create a conda environment                  | https://github.com/laugmz/ppchem/commit/442e68781f986873257a62a3d740e1bab6076981 |
+| 1    | Fork a Repo                                 | https://github.com/laugmz/Milestones                                             |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
