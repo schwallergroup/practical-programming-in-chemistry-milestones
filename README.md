@@ -15,8 +15,8 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 | 1    | Create a New Branch                         | https://github.com/jonathanrsr/ppchem/tree/new-branch |
 | 1    | Create a conda environment                  | https://github.com/jonathanrsr/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
+| 1    | (Optional) Make a Pull Request              | https://github.com/jonathanrsr/ppchem/commit/53490ecfa4af255988fedc2455752731fce471ca |
+| 2    | (Optional) Review a Pull Request            | https://github.com/jonathanrsr/ppchem/commit/ff415e10bfd3d91222912fdc0a33534719874b29 |
 
 **More milestones will be added throughout the course.**
 
