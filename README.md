@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/blanchebillarant/blanchebillarant                                   |
 | 1    | Commit and Push Change from Command Line    | https://github.com/blanchebillarant/ppchem/commit/some_message                |
 | 1    | Create a New Branch                         | https://github.com/blanchebillarant/ppchem/tree/new-branch-name            |
-| 1    | Create a conda environment                  | https://github.com/blanchebillarant/ppchem/blob/`branch-name`/`env.yml`      |
+| 1    | Create a conda environment                  | https://github.com/blanchebillarant/ppchem/blob/branch-name/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/blanchebillarant/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
