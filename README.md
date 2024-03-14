@@ -15,6 +15,17 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/jonathanrsr/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/jonathanrsr/ppchem/commit/53490ecfa4af255988fedc2455752731fce471ca |
 | 2    | (Optional) Review a Pull Request            | https://github.com/jonathanrsr/ppchem/commit/ff415e10bfd3d91222912fdc0a33534719874b29 |
+| Week | Milestone                                   | Link                                                                        |      
+|------|---------------------------------------------|-----------------------------------------------------------------------------|
+| 1    | Github Account Created                      | https://github.com/`username`                                               | 
+| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
+| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
+| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
+| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
+| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | (Optional) Make a Pull Request              | |
+| 2    | (Optional) Review a Pull Request            | |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
 
 **More milestones will be added throughout the course.**
 
