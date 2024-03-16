@@ -7,16 +7,15 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
-
+| 1    | Github Account Created                      | https://github.com/amidecar                                               | 
+| 1    | Github Profile Page                         | https://github.com/amidecar/amidecar                                    |
+| 1    | Commit and Push Change from Command Line    | https://github.com/amidecar/ppchem/commit/91d72f66fe422e5638648543d6f743c17edd2a09               |
+| 1    | Create a New Branch                         | https://github.com/amidecar/ppchem/tree/new-branch-name            |
+| 1    | Create a conda environment                  | https://github.com/amidecar/ppchem/blob/main/env.yml      |
+| 1    | Fork a Repo                                 | https://github.com/amidecar/practical-programming-in-chemistry-milestones |
+| 1    | (Optional) Make a Pull Request              | https://github.com/schwallergroup/practical-programming-in-chemistry-milestones/pull/16
+| 2    | (Optional) Review a Pull Request            | https://github.com/schwallergroup/practical-programming-in-chemistry-milestones/pull/16#pullrequestreview-1936742234
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/amidecar/ppchem/pull/1
 **More milestones will be added throughout the course.**
 
 ## How to use this milestones table
