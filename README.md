@@ -28,7 +28,7 @@ Each student should start by forking this repository that contains the milestone
 Next, the student clones their forked repository to their local machine, creating a local working copy. This is done using the Git command line interface (CLI) with the following command :
 
 ```bash
-git clone https://github.com/<username>/practical-programming-in-chemistry-milestones.git
+git clone https://github.com/MGalka66/practical-programming-in-chemistry-milestones.git
 ```
 
 Replace `username` with your GitHub username.
